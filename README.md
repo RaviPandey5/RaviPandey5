@@ -1,16 +1,17 @@
 ## 💫 About Me:
 <br><br>Hi, I'm Ravi — an AI builder and founder of **Niva Solutions**, passionate about creating real-world AI products and **production-ready software systems** that solve meaningful problems. I work at the intersection of **AI + Software Engineering**, combining intelligent automation with solid architecture and scalable design.<br><br> 
-## 🔭 Currently Working On<br><br>
-Multi-agent AI Assistant for research, automation, and Personal Tasks<br>
+## 🔭 Currently Working On
+<br><br>Multi-agent AI Assistant for research, automation, and Personal Tasks<br>
 AI automation workflows (WhatsApp, scheduling, calls,CRM)<br>Production Grade RAG-based intelligent chatbots for businesses<br>Scalable backend architectures for AI SaaS platforms<br><br>
-## 🤝 Looking to Contribute To<br>
-Open-source AI tools, system design–focused projects, developer platforms, and innovative SaaS products.<br><br> 
-## 💡 Looking to Help With<br><br>
-AI integrations (OpenAI, LangChain, APIs ,etc)<br>System design & scalable architecture planning<br>Building production-ready AI applications<br>Designing automation and agent workflows<br><br>
-## 💬 Ask Me About<br>
-AI product development, system design concepts, SaaS architecture, backend scaling, and turning ideas into deployable products.<br><br>
+## 🤝 Looking to Contribute To
+<br>Open-source AI tools, system design–focused projects, developer platforms, and innovative SaaS products.<br><br> 
+## 💡 Looking to Help With
+<br><br>AI integrations (OpenAI, LangChain, APIs ,etc)<br>System design & scalable architecture planning<br>Building production-ready AI applications<br>Designing automation and agent workflows<br><br>
+## 💬 Ask Me About
+<br>AI product development, system design concepts, SaaS architecture, backend scaling, and turning ideas into deployable products.<br><br>
 ## 📚 Currently Learning<br>
-Microsoft Fabric • DSA • LangGraph • Kafka & messaging queues • Advanced system design patterns<br><br>
+Microsoft Fabric • DSA • LangGraph • Kafka & messaging queues • Advanced system design patterns
+<br><br>
 ## ⚡ Fun Fact<br>
 I love exploring system architecture challenges and turning complex ideas into scalable, real-world software.<br>
 
