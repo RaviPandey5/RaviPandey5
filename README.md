@@ -1,5 +1,5 @@
 ## 💫 About Me:<br>
-Hi, I'm Ravi — an AI builder and founder of **Niva Solutions**, passionate about creating real-world AI products and **production-ready software systems** that solve meaningful problems. I work at the intersection of **AI + Software Engineering**, combining intelligent automation with solid architecture and scalable design.<br><br> 
+Hi, I'm Ravi - an **Software Developer** and **AI Enginner** , passionate about creating real-world **AI products** and **production-ready software systems** that solve meaningful problems. I work at the intersection of **AI + Software Engineering**, combining intelligent automation with solid architecture and scalable design.<br><br> 
 ## 🔭 Currently Working On<br>
 Multi-agent AI Assistant for research, automation, and Personal Tasks<br>
 AI automation workflows (WhatsApp, scheduling, calls,CRM)<br>Production Grade RAG-based intelligent chatbots for businesses<br>Scalable backend architectures for AI SaaS platforms<br><br>
